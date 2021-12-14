@@ -1,0 +1,39 @@
+_repo: Hildreth-s-Japan-as-it-was-and-is-Volume-II-of-2-A-Handbook-of-Old-Japan_66914
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Griffis, W. M. Elliot
+    gutenberg_agent_id: '54023'
+    url: http://www.gutenberg.org/2009/agents/54023
+creator:
+  author:
+    agent_name: Hildreth, Richard
+    alias: Hildreth, R. (Richard)
+    birthdate: 1807
+    deathdate: 1865
+    gutenberg_agent_id: '25677'
+    url: http://www.gutenberg.org/2009/agents/25677
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Hildreth
+  editor:
+    agent_name: Clement, Ernest W. (Ernest Wilson)
+    aliases:
+    - Clement, E. W. (Ernest Wilson)
+    - Clement, Ernest Wilson
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '53255'
+    url: http://www.gutenberg.org/2009/agents/53255
+description: ''
+gutenberg_issued: '2021-12-09'
+identifiers:
+  gutenberg: '66914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hildreth''s "Japan as it was and is", Volume II (of 2)
+
+  A Handbook of Old Japan'
+url: http://www.gutenberg.org/ebooks/66914
