@@ -5,6 +5,9 @@ contributor:
     agent_name: Griffis, W. M. Elliot
     gutenberg_agent_id: '54023'
     url: http://www.gutenberg.org/2009/agents/54023
+covers:
+- cover_type: archival
+  image_path: 66914-h/images/cover.jpg
 creator:
   author:
     agent_name: Hildreth, Richard
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '53255'
     url: http://www.gutenberg.org/2009/agents/53255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66914#Hildreth-s-Japan-as-it-was-and-is-Volume-II-of-2-A-Handbook-of-Old-Japan
 gutenberg_issued: '2021-12-09'
 identifiers:
   gutenberg: '66914'
